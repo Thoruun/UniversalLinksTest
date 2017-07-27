@@ -4,15 +4,15 @@
     "details": [
       {
         "appID": "9T33LP2848.com.centerid.centerDEV",
-        "paths": ["*"]
+        "paths": ["*","/"]
       },
       {
         "appID": "9T33LP2848.com.centerid.centerSTAG",
-        "paths": ["*"]
+        "paths": ["*","/"]
       },
       {
         "appID": "9T33LP2848.com.centerid.center",
-        "paths": ["*"]
+        "paths": ["*","/"]
       }
     ]
   }
